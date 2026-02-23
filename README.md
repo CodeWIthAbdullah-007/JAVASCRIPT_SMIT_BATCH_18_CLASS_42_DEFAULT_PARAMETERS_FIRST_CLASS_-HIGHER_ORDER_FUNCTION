@@ -21,4 +21,4 @@ This project explores **default parameters** and **higher-order functions** in J
 - Functional programming concepts
 
 ## Author 👨‍💻
-SMIT Batch 18
+M. Abdullah_Anwar
