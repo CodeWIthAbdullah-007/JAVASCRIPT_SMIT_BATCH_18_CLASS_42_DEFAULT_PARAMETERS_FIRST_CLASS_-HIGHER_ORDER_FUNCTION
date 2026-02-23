@@ -83,11 +83,13 @@
     // console.log(data);
 // });
 // console.log('itrate:', itrate);
-// let test = numbers.map((data) => {
+// let test = numbers.map((data, index, arr) => {
+    // console.log(data, index. arr)
     // return data
     // console.log(data); 
 // });
 // console.log('test:', test);
 
 // =============================================================================================================================================================================
+
 
