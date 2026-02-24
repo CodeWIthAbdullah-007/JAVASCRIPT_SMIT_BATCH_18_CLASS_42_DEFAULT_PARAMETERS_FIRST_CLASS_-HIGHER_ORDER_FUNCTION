@@ -80,16 +80,17 @@
 // EXAMPLE_2
 // let numbers = [1, 2, 3, 4];
 // let itrate = numbers.forEach((data) => {
-    // console.log(data);
+//     console.log(data);
 // });
 // console.log('itrate:', itrate);
 // let test = numbers.map((data, index, arr) => {
-    // console.log(data, index. arr)
-    // return data
-    // console.log(data); 
+//     console.log(data, index. arr)
+//     return data
+//     console.log(data); 
 // });
 // console.log('test:', test);
 
 // =============================================================================================================================================================================
+
 
 
